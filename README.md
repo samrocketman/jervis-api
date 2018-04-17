@@ -3,7 +3,8 @@
 This repository contains the web pages for the [Jervis library][jervis]
 developer documentation.
 
-* [jervis-1.0][1.0] (latest)
+* [jervis-1.0][1.1] (latest)
+* [jervis-1.0][1.0]
 * [jervis-0.13][0.13]
 * [jervis-0.12][0.12]
 * [jervis-0.11][0.11]
@@ -25,6 +26,7 @@ Documentation was generated with the following command.
 
 [jervis]: https://github.com/samrocketman/jervis
 
+[1.0]: http://sam.gleske.net/jervis-api/1.1/
 [1.0]: http://sam.gleske.net/jervis-api/1.0/
 [0.13]: http://sam.gleske.net/jervis-api/0.13/
 [0.12]: http://sam.gleske.net/jervis-api/0.12/
