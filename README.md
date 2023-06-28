@@ -4,7 +4,8 @@ This repository contains the web pages for the [Jervis library][jervis]
 developer documentation.
 
 
-* [jervis-1.7][1.7] (latest)
+* [jervis-2.0][2.0] (latest)
+* [jervis-1.7][1.7]
 * [jervis-1.6][1.6]
 * [jervis-1.5][1.5]
 * [jervis-1.4][1.4]
@@ -42,19 +43,19 @@ Release list generated with
 [jervis]: https://github.com/samrocketman/jervis
 
 [0.1]: http://sam.gleske.net/jervis-api/0.1/
-[0.10]: http://sam.gleske.net/jervis-api/0.10/
-[0.11]: http://sam.gleske.net/jervis-api/0.11/
-[0.12]: http://sam.gleske.net/jervis-api/0.12/
-[0.13]: http://sam.gleske.net/jervis-api/0.13/
 [0.2]: http://sam.gleske.net/jervis-api/0.2/
 [0.3]: http://sam.gleske.net/jervis-api/0.3/
 [0.4]: http://sam.gleske.net/jervis-api/0.4/
-[0.5]: http://sam.gleske.net/jervis-api/0.5/
 [0.5.1]: http://sam.gleske.net/jervis-api/0.5.1/
+[0.5]: http://sam.gleske.net/jervis-api/0.5/
 [0.6]: http://sam.gleske.net/jervis-api/0.6/
 [0.7]: http://sam.gleske.net/jervis-api/0.7/
 [0.8]: http://sam.gleske.net/jervis-api/0.8/
 [0.9]: http://sam.gleske.net/jervis-api/0.9/
+[0.10]: http://sam.gleske.net/jervis-api/0.10/
+[0.11]: http://sam.gleske.net/jervis-api/0.11/
+[0.12]: http://sam.gleske.net/jervis-api/0.12/
+[0.13]: http://sam.gleske.net/jervis-api/0.13/
 [1.0]: http://sam.gleske.net/jervis-api/1.0/
 [1.1]: http://sam.gleske.net/jervis-api/1.1/
 [1.2]: http://sam.gleske.net/jervis-api/1.2/
@@ -63,3 +64,4 @@ Release list generated with
 [1.5]: http://sam.gleske.net/jervis-api/1.5/
 [1.6]: http://sam.gleske.net/jervis-api/1.6/
 [1.7]: http://sam.gleske.net/jervis-api/1.7/
+[2.0]: http://sam.gleske.net/jervis-api/2.0/
