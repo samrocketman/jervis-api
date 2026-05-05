@@ -4,7 +4,10 @@ This repository contains the web pages for the [Jervis library][jervis]
 developer documentation.
 
 
-* [jervis-2.0][2.1] (latest)
+* [jervis-2.4][2.4] (latest)
+* [jervis-2.3][2.3]
+* [jervis-2.2][2.2]
+* [jervis-2.1][2.1]
 * [jervis-2.0][2.0]
 * [jervis-1.7][1.7]
 * [jervis-1.6][1.6]
@@ -67,3 +70,6 @@ Release list generated with
 [1.7]: http://sam.gleske.net/jervis-api/1.7/
 [2.0]: http://sam.gleske.net/jervis-api/2.0/
 [2.1]: http://sam.gleske.net/jervis-api/2.1/
+[2.2]: http://sam.gleske.net/jervis-api/2.2/
+[2.3]: http://sam.gleske.net/jervis-api/2.3/
+[2.4]: http://sam.gleske.net/jervis-api/2.4/
